@@ -23,6 +23,7 @@ public class J1_Ejercicios {
         System.out.println("Segundo Valor: ");
         n2 = entradaDos.nextFloat();
         result = n1 / n2;
-        System.out.println("Resultado:" + result);
+        System.out.println("Resultado: " + result);
+        System.out.println("Test GitHub");
     }
 }
