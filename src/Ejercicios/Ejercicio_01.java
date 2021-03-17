@@ -1,9 +1,10 @@
-package J1_ManejoVariables;
+package Ejercicios;
 
 import java.util.Scanner;
 
-public class J1_JavaCero {
+public class Ejercicio_01 {
     public static void main(String[] args) {
+        /*Entrada de datos para realizar una operación*/
         Scanner entrada = new Scanner(System.in);
         int num1;
         int num2;
@@ -32,46 +33,4 @@ public class J1_JavaCero {
             System.out.println("Sin operación");
         }
     }
-    /*
-    TIPOS DE DATOS
-    long = muy grande
-    int = lo más usado
-
-    float = hasta 8 valores decimales
-    double = hasta 15 valores decimales
-
-    char = un solo caracter, sin importar si es texto o numérico
-    boolean = true, false
-
-    String = cadena de texto
-
-    OPERADORES ARITMÉTICOS
-    +
-    -
-    *
-    /
-    ^ POTENCIA ALT + 94
-    (
-    )
-    PRIORIDAD DE OPERACIONES
-    En ese orden
-    Empieza de derecha a izquierda
-    1: ()
-    2: ^
-    3: *  /
-    4: +  -
-
-    OPERADORES RELACIONALES
-    <
-    >
-    ==
-    !=
-    <=
-    >=
-
-    OPERADORES LÓGICOS
-    ||
-    &&
-    */
-
 }
