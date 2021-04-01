@@ -1,0 +1,3 @@
+El encapsulamiento se basa en los permisos que se
+les otorga a las instancias de objetos, usando private.
+Estas pueden ser variables o métodos.

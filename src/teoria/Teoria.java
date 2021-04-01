@@ -76,4 +76,6 @@ public class Teoria {
     System.out.println("Tu edadDos es: " + edadEntradaDos);
     */
 
+    /*Para saber el tipo de dato*/
+    /*System.out.println(((Object)valor_a_comparar).getClass().getSimpleName() + ": es integer");*/
 }
