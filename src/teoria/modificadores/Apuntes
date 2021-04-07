@@ -1,0 +1,19 @@
+Modificadores de acceso
+
+Permiten dar un nivel de seguridad a clases, atributos, métodos y constructores.
+En Java son 4:
+* Public
+    Lleva la palabra reservada "public".
+    Permite acceder desde cualquier clase sin importar si están en el mismo paquete.
+
+* Private
+    Lleva la palabra reservada "private".
+    Para comunicarse con cualquier paquete se realiza con get y set.
+
+* Protected
+    Para acceder a los elementos solo se pueden desde el mismo paquete o desde cualquier clase que herede.
+    Similar al acceso por defecto.
+
+* Acceso por defecto
+    No tiene palabra reservada.
+    Puede ser usada si pertenece al mismo paquete.
