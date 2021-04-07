@@ -1,0 +1,5 @@
+Polimorfismo
+
+    Capacidad que se da a un método para comportarse de manera diferente de acuerdo a la instancia.
+    Se utiliza la herencia.
+    Se debe usar abstract en el método y la clase contenedora.
