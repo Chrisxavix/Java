@@ -1,0 +1,17 @@
+Ambito de Variables
+
+     Indica en qué secciones de código estará disponible.
+     Fuera de ese ámbito, una variable no estará disponible.
+
+Tres tipos de ámbito:
+    * Local
+    También conocidas como variables de bloque.
+    Solo funcionan en el bloque donde han sido declaradas.
+
+    * Global
+    Pertenece a toda la clase donde ha sido declarada.
+
+    * Estático
+    También conocidas como variables de clase.
+    Pertenecen a la propia clase donde han sido declaradas.
+    Depende del modificador que lo contenga.
