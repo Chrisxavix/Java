@@ -1,4 +1,4 @@
-package Poo.suma;
+package EjerciciosIntermedio.sumaPoo;
 
 public class Suma {
     private int vUno, vDos, Resultado;
@@ -22,5 +22,4 @@ public class Suma {
         Operacion();
         System.out.print("Resultado: " + Resultado);
     }
-
 }

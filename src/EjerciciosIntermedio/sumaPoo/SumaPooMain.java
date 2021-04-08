@@ -1,8 +1,8 @@
-package Poo.suma;
+package EjerciciosIntermedio.sumaPoo;
 
 import java.util.Scanner;
 
-public class SumaMain {
+public class SumaPooMain {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         System.out.print("Ingrese el primer valor: ");
