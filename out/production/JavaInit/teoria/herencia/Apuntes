@@ -1,0 +1,17 @@
+Herencia
+
+    Reutiliza código cuando creamos nuevas clases.
+    Podemo utilizar los métodos y atributos de una clase ya existente.
+
+Clase padre o clase base:
+    Se crea primero.
+    Es lo que se va a reutilizar, como métodos o atributos.
+
+Clase hija o clase derivada:
+    Donde se reutiliza los métodos o atributos.
+
+
+Existe la herencia simple y múltiple:
+En Java solo se puede usar la herencia simple:
+    Consiste que una clase hija solo puede heredar de una única clase padre.
+    Una clase padre puede tener varias clases hijas.
