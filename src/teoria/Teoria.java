@@ -78,4 +78,14 @@ public class Teoria {
 
     /*Para saber el tipo de dato*/
     /*System.out.println(((Object)valor_a_comparar).getClass().getSimpleName() + ": es integer");*/
+
+    /*Comentarios*/
+    /* Ctrl + Shift + / */
+    /*
+     * Esto es un comentario
+     * En párrafo
+     */
+
+    /* Ctrl + / */
+    // Comentario en línea
 }
