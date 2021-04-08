@@ -1,0 +1,5 @@
+Super
+
+    Se usa para acceder a mètodos o atributos de la clase padre.
+    Lo más común es poder invocar al constructor de la clase padre.
+    Con esto se reduce la cantidad de código que se debería escribir en las clases hijas.
