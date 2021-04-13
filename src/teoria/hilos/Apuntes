@@ -8,3 +8,25 @@ Hilos (Threads)
 
 Hilos con parámetros
 
+    Crear métodos para que reciban los parámetros.
+
+Estados
+
+    Es el ciclo de vida de un hilo:
+        Nuevo o New:
+        Ha sido creado pero no inicializado.
+
+        Ejecutable o Runnable:
+        Usando el método start() llama al método run().
+
+        Bloqueado o Not Runnable:
+        El hilo se encuentra en ejecución, pero existe una tarea o actividad del mismo hilo que lo impide.
+        Por lo general lo que impide es un .sleep().
+
+        Muerto - Finalizado o Dead:
+        Un hilo muere de dos formas:
+            Causas Naturales:
+            Cuando el método run() termina normalmente.
+
+            Asesinado - Detenido:
+            Cuando una instrucción obliga a finalizar el hilo sin haber concluido su tarea completa.
