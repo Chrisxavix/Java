@@ -1,0 +1,8 @@
+Hilos (Threads)
+
+    Es un flujo de control dentro de un programa.
+    Permite tener múltiples procesos corriendo en forma simultanea.
+    Con ayuda de los hilos se puede ejecutar dos o más procesos al mismo tiempo.
+    No necesita esperar que finalice uno para ejecutar el siguiente.
+
+    Se debe heredar de la clase "extends Thread"
