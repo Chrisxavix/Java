@@ -1,4 +1,4 @@
-package teoria.hilos;
+package teoria.hilos.basico;
 /*Creación de un hilo, segunda forma*/
 public class Proceso2 implements Runnable {
 

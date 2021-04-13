@@ -1,4 +1,4 @@
-package teoria.hilos;
+package teoria.hilos.basico;
 
 public class ClasePrincipal {
     public static void main(String[] args) {

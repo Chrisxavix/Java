@@ -1,4 +1,4 @@
-package teoria.hilos;
+package teoria.hilos.basico;
 /*Creación de un hilo, primera forma*/
 public class Proceso1 extends Thread {
     /*Usar un método que viene de la clase Thread*/
