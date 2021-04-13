@@ -4,5 +4,7 @@ Hilos (Threads)
     Permite tener múltiples procesos corriendo en forma simultanea.
     Con ayuda de los hilos se puede ejecutar dos o más procesos al mismo tiempo.
     No necesita esperar que finalice uno para ejecutar el siguiente.
+    Se debe heredar de la clase "extends Thread" o "implements Runnable".
 
-    Se debe heredar de la clase "extends Thread"
+Hilos con parámetros
+
