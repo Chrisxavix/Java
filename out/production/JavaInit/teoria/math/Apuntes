@@ -1,0 +1,9 @@
+Math
+
+    Contiene métodos para realizar operaciones y cálculos matemáticos.
+        Funciones hiperbólicas.
+        Funciones Trigonométricas.
+        Conversión de Grados a Radianes, y viseversa.
+        Paso de coordenadas rectángulares a polares.
+    Precisión de 15 decimales.
+    El método Math retorna valores de tipo double.
