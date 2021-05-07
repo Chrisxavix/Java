@@ -1,0 +1,20 @@
+01 Entrada de datos para realizar una operación
+02 Ejercicio de entrada de datos con múltiples condicionales
+03 Ejercicio usando switch case
+04 Tabla de multiplicar, bucle for
+05 Ejercicio con el bucle while
+06 Imprimir una serie en decremento de 100 en 100
+07 Imprimir la serie: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+08 Imprimir la serie: 1, 99, 2, 98, 3, 97, 4, 96, 5, 95
+09 Serie Fibonacci: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34
+10 Usar nombre.equals("t") para comparar o "=="
+11 Usando el método lenght
+12 Usando substring(0, 3), obtener parte de la cadena
+13 Arreglos unidimensionales, Vectores
+14 Imprimir Vector
+15 LLenar un vector con Scanner
+16 Imprimir vector de reversa
+17 Matrices
+18 Matrices dinámicas
+19 Ingreso de valores a una matriz
+20 Interfaces

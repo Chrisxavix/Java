@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Ejercicio_11 {
     public static void main(String[] args) {
-        /*Usando el métod lenght*/
+        /*Usando el método lenght*/
 
         String cadena;
         Scanner entrada = new Scanner(System.in);
